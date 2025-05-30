@@ -28,7 +28,7 @@ La organización de archivos del proyecto sigue una separación clara entre el l
   Se encarga de toda la lógica de Socket.IO. Maneja las conexiones, desconexiones, validación de usuarios únicos y transmisión de mensajes entre todos los clientes conectados. Utiliza una estructura `Set` para garantizar unicidad de usuarios.
 
 📸 **Vista del servidor configurado:**  
-![Servidor Express y Socket.IO](https://imgur.com/JHSNRAO)
+![Servidor Express y Socket.IO](https://imgur.com/JHSNRAO.png)
 
 ---
 
@@ -44,7 +44,7 @@ La organización de archivos del proyecto sigue una separación clara entre el l
   Establece conexión Socket.IO y renderiza nuevos mensajes automáticamente en pantalla.
 
 📸 **Vista del formulario de registro:**  
-![Formulario Registro](https://imgur.com/a/CN3KUy8)
+![Formulario Registro](https://imgur.com/a/CN3KUy8.png)
 
 ---
 
@@ -58,10 +58,10 @@ Antes de ingresar al chat, se realiza una doble validación:
    Cuando el usuario intenta conectarse, el servidor comprueba si su nombre ya está registrado en la sesión actual. Si el nombre está en uso, se emite un mensaje de error y se deniega la entrada.
 
 📸 **Vista de validación exitosa:**  
-![Validación Exitosa](https://imgur.com/fzdeBUC)
+![Validación Exitosa](https://imgur.com/fzdeBUC.png)
 
 📸 **Vista de error al duplicar nombre:**  
-![Nombre Repetido](https://imgur.com/undefined)
+![Nombre Repetido](https://imgur.com/undefined.png)
 
 ---
 
@@ -70,10 +70,10 @@ Antes de ingresar al chat, se realiza una doble validación:
 Una vez dentro, los usuarios pueden intercambiar mensajes en tiempo real. Cada mensaje enviado se propaga a todos los clientes conectados. Se emplea Bootstrap para estilizar los mensajes y los elementos del formulario.
 
 📸 **Chat en acción:**  
-![Chat funcionando](https://imgur.com/VUezMoI)
+![Chat funcionando](https://imgur.com/VUezMoI.png)
 
 📸 **Visualización de cookies de usuario:**  
-![Cookies de sesión](https://imgur.com/undefined)
+![Cookies de sesión](https://imgur.com/undefined.png)
 
 ---
 
@@ -97,7 +97,7 @@ Tanto el cliente como el servidor usan buenas prácticas, incluyendo:
 - Manejo de errores en eventos de Socket.IO.
 
 📸 **Snippet de desconexión y limpieza:**  
-![Desconexión](https://imgur.com/gD4Yj0L)
+![Desconexión](https://imgur.com/gD4Yj0L.png)
 
 ---
 
