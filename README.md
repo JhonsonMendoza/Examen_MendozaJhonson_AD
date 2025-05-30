@@ -61,7 +61,7 @@ Antes de ingresar al chat, se realiza una doble validación:
 ![Validación Exitosa](https://imgur.com/fzdeBUC.png)
 
 📸 **Vista de error al duplicar nombre:**  
-![Nombre Repetido](https://imgur.com/undefined.png)
+![Nombre Repetido](https://imgur.com/a/CN3KUy8#fJPUHHY.png)
 
 ---
 
