@@ -44,7 +44,7 @@ La organización de archivos del proyecto sigue una separación clara entre el l
   Establece conexión Socket.IO y renderiza nuevos mensajes automáticamente en pantalla.
 
 📸 **Vista del formulario de registro:**  
-![Formulario Registro](https://imgur.com/a/CN3KUy8.png)
+![Formulario Registro](https://imgur.com/NjOzswm.png)
 
 ---
 
@@ -61,7 +61,7 @@ Antes de ingresar al chat, se realiza una doble validación:
 ![Validación Exitosa](https://imgur.com/fzdeBUC.png)
 
 📸 **Vista de error al duplicar nombre:**  
-![Nombre Repetido](https://imgur.com/a/CN3KUy8#fJPUHHY.png)
+![Nombre Repetido](https://imgur.com/fJPUHHY.png)
 
 ---
 
@@ -73,7 +73,7 @@ Una vez dentro, los usuarios pueden intercambiar mensajes en tiempo real. Cada m
 ![Chat funcionando](https://imgur.com/VUezMoI.png)
 
 📸 **Visualización de cookies de usuario:**  
-![Cookies de sesión](https://imgur.com/undefined.png)
+![Cookies de sesión](https://imgur.com/S46WPgt.png)
 
 ---
 
